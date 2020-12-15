@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "user friendly news app for customizing your feed for news",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "DEBUG=app,app:* nodemon server.js",
-    "start-WIN": "set DEBUG=app & nodemon server.js",
-    "lint": "eslint server.js"
-  },
+ 
+ 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ac08/NewsApp.git"
